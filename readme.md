@@ -5,15 +5,18 @@ Refer to files
  - mdr.py
  - table_1.py
  - urine_lib.py
+ - plots.py
 
 ## National Trends of Resistance
  - temporal_monthly.py
  - simple_lm.R
  - cluster_robust_lm.R
+ - mixed_effects_lm.R
  - quadrant.py
 
 ## Lead/lag Analysis for Indicator Antibiotics and CA-UTI/HA-UTI Associations
  - amr_national_lead_lag.R
+ - amr_cai_hai.R
 
 ## Local Patterns of AMR and Sustainable Development Goals
 - heat_map.R
